@@ -1,6 +1,6 @@
 import sys
 
-path = 'home/ugoproto/ex52/'
+path = 'home/ugoproto/webpy_project/'
 if path not in sys.path:
     sys.path.append(path)
 
