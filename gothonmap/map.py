@@ -30,7 +30,7 @@ generic_death = Room("Death",
 "FIN",
 "",
 "",
-"static/img/imgI.jpg",
+"/static/img/imgI.jpg",
 "") # instance of Room
 
 lower_deck_cursive = Room("Lower Deck Cursive",
@@ -41,8 +41,8 @@ lower_deck_cursive = Room("Lower Deck Cursive",
 "",
 "[a] shoot! [b] dodge! [c] tell a joke",
 "[a] tire! [b] esquive! [c] raconte une blague",
-"static/img/imgB.jpg",
-"static/img/iconB.png")
+"/static/img/imgB.jpg",
+"/static/img/iconB.png")
 
 lower_deck_cursive_death_1 = Room("Epilogue",
 "Épilogue",
@@ -52,8 +52,8 @@ lower_deck_cursive_death_1 = Room("Epilogue",
 "FIN",
 "",
 "",
-"static/img/imgG.jpg",
-"static/img/iconD.png")
+"/static/img/imgG.jpg",
+"/static/img/iconD.png")
 
 lower_deck_cursive_death_2 = Room("Epilogue",
 "Épilogue",
@@ -63,8 +63,8 @@ lower_deck_cursive_death_2 = Room("Epilogue",
 "FIN",
 "",
 "",
-"static/img/imgG.jpg",
-"static/img/iconD.png")
+"/static/img/imgG.jpg",
+"/static/img/iconD.png")
 
 the_armory = Room("The Armory",
 "L'Arsenal",
@@ -74,8 +74,8 @@ the_armory = Room("The Armory",
 "",
 "[###]",
 "[###]",
-"static/img/imgG.jpg",
-"static/img/iconA.png") # code: 132
+"/static/img/imgG.jpg",
+"/static/img/iconA.png") # code: 132
 
 the_armory_2 = Room("The Armory",
 "L'Arsenal",
@@ -85,8 +85,8 @@ the_armory_2 = Room("The Armory",
 "",
 "[###]",
 "[###]",
-"static/img/imgJ.jpg",
-"static/img/iconA.png") # code: 132
+"/static/img/imgJ.jpg",
+"/static/img/iconA.png") # code: 132
 
 the_armory_3 = Room("The Armory",
 "L'Arsenal",
@@ -96,8 +96,8 @@ the_armory_3 = Room("The Armory",
 "",
 "[1##]",
 "[1##]",
-"static/img/imgJ.jpg",
-"static/img/iconA.png") # code: 132
+"/static/img/imgJ.jpg",
+"/static/img/iconA.png") # code: 132
 
 the_armory_4 = Room("The Armory",
 "L'Arsenal",
@@ -107,8 +107,8 @@ the_armory_4 = Room("The Armory",
 "",
 "[1##]",
 "[1##]",
-"static/img/imgJ.jpg",
-"static/img/iconA.png") # code: 132
+"/static/img/imgJ.jpg",
+"/static/img/iconA.png") # code: 132
 
 the_armory_5 = Room("The Armory",
 "L'Arsenal",
@@ -118,8 +118,8 @@ the_armory_5 = Room("The Armory",
 "",
 "[1##]",
 "[1##]",
-"static/img/imgJ.jpg",
-"static/img/iconA.png") # code: 132
+"/static/img/imgJ.jpg",
+"/static/img/iconA.png") # code: 132
 
 the_armory_death = Room("Epilogue",
 "Épilogue",
@@ -129,8 +129,8 @@ the_armory_death = Room("Epilogue",
 "FIN",
 "",
 "",
-"static/img/imgF.jpg",
-"static/img/iconF.png")
+"/static/img/imgF.jpg",
+"/static/img/iconF.png")
 
 the_bridge = Room("The Bridge",
 "Le pont",
@@ -140,8 +140,8 @@ the_bridge = Room("The Bridge",
 "",
 "[a] throw the bomb [b] slowly place the bomb",
 "[a] lance la bombe [b] dépose la bombe",
-"static/img/imgK.jpg",
-"static/img/iconC.png")
+"/static/img/imgK.jpg",
+"/static/img/iconC.png")
 
 the_bridge_death = Room("Epilogue",
 "Épilogue",
@@ -151,8 +151,8 @@ the_bridge_death = Room("Epilogue",
 "FIN",
 "",
 "",
-"static/img/imgD.jpg",
-"static/img/iconE.png")
+"/static/img/imgD.jpg",
+"/static/img/iconE.png")
 
 escape_pod = Room("Escape Pod",
 "Navette de secours",
@@ -162,8 +162,8 @@ escape_pod = Room("Escape Pod",
 "",
 "[#]",
 "[#]",
-"static/img/imgD.jpg",
-"static/img/iconC.png") # code: 2
+"/static/img/imgD.jpg",
+"/static/img/iconC.png") # code: 2
 
 escape_pod_2 = Room("Escape Pod",
 "Navette de secours",
@@ -173,8 +173,8 @@ escape_pod_2 = Room("Escape Pod",
 "",
 "[#]",
 "[#]",
-"static/img/imgD.jpg",
-"static/img/iconC.png") # code: 2
+"/static/img/imgD.jpg",
+"/static/img/iconC.png") # code: 2
 
 escape_pod_3 = Room("Escape Pod",
 "Navette de secours",
@@ -184,8 +184,8 @@ escape_pod_3 = Room("Escape Pod",
 "",
 "#",
 "#",
-"static/img/imgD.jpg",
-"static/img/iconC.png") # code: 2
+"/static/img/imgD.jpg",
+"/static/img/iconC.png") # code: 2
 
 the_end_loser = Room("Epilogue",
 "Épilogue",
@@ -195,8 +195,8 @@ the_end_loser = Room("Epilogue",
 "FIN",
 "",
 "",
-"static/img/imgC.jpg",
-"static/img/iconG.png")
+"/static/img/imgC.jpg",
+"/static/img/iconG.png")
 
 the_end_winner = Room("Epilogue",
 "Épilogue",
@@ -206,8 +206,8 @@ the_end_winner = Room("Epilogue",
 "FIN",
 "",
 "",
-"static/img/imgA.jpg",
-"static/img/iconH.png")
+"/static/img/imgA.jpg",
+"/static/img/iconH.png")
 
 ###############################################################################
 
