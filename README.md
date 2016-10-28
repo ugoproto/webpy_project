@@ -2,7 +2,7 @@
 
 A little Python site using the web.py framework.
 
-Based on Exercise 52, from [Learn Python the Hard Way](http://learnpythonthehardway.org) by Zed Shaw, but with a couple of bells and whistles.
+Based on Exercise 52, from [Learn Python the Hard Way](http://learnpythonthehardway.org) by Zed Shaw, with a couple of bells and whistles.
 
 - Project name: webpy_project (the parent directory).
 - Website title: Starship Survival.
@@ -11,10 +11,6 @@ Based on Exercise 52, from [Learn Python the Hard Way](http://learnpythonthehard
 
 ```text
 └───webpy_project
-    ├───.git
-    .   ├───...
-    .   ...
-    .
     ├───bin
     ├───docs
     ├───gothonmap
