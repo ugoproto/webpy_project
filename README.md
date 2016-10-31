@@ -7,6 +7,7 @@ Based on Exercise 52, from [Learn Python the Hard Way](http://learnpythonthehard
 - Project name: webpy_project (the parent directory).
 - Website title: Starship Survival.
 - The project runs on Python 2.7.
+- Add the [web.py](http://webpy.org/install) package to Python.
 - Clone the project; on your PC, the project directory must be organized as follow.
 
 ```text
