@@ -27,7 +27,7 @@ Based on Exercise 52, from [Learn Python the Hard Way](http://learnpythonthehard
 - The terminal or the shell will show a local IP address: `http://localhost:8080`.
 - Copy and paste this address in your browser to experience the website.
 - If the Python script fails to launch the website, you might have a path problem; you must set the path for the project to execute.
-- For Linux/MacOSX users, please execute in the terminal:
+- For Linux/Mac OS X users, please execute in the terminal:
 
 ```bash
 export PYTHONPATH=$PYTHONPATH:.
@@ -44,4 +44,5 @@ $env:PYTHONPATH = "$env:PYTHONPATH;."
 - For Windows, you might need to try `py -2 bin/app.py` or `py -2.7 bin/app.py`.
 - Consult the Python documentation otherwise.
 - The site can also be hosted and run online.
+    - Here is a bonified version: https://ugoproto.pythonanywhere.com/game
 - Have fun!
